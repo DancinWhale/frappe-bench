@@ -1,0 +1,9 @@
+/bin/sh: 1: /home/dancinwhale/.pyenv/versions/3.11.2/bin/bench: not found
+Please specify --site sitename
+/bin/sh: 1: /home/dancinwhale/.pyenv/versions/3.11.2/bin/bench: not found
+set -o pipefail; /usr/bin/mariadb-dump --user=_22a38581f5b21074 --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _22a38581f5b21074 | /usr/bin/gzip >> ./library.localhost/private/backups/20240530_120003-library_localhost-database.sql.gz
+
+Backup Summary for library.localhost at 2024-05-30 12:00:05.620454
+Config  : /home/dancinwhale/frappe-bench/sites/library.localhost/private/backups/20240530_120003-library_localhost-site_config_backup.json 149.0B
+Database: /home/dancinwhale/frappe-bench/sites/library.localhost/private/backups/20240530_120003-library_localhost-database.sql.gz 232.7KiB
+Backup for Site library.localhost has been successfully completed

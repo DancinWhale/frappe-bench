@@ -1,0 +1,176 @@
+2024-05-30 17:31:29,583 Worker rq:worker:e3c0444773a54d09855d854e00677640 started with PID 3051, version 1.16.2
+2024-05-30 17:31:29,583 Subscribing to channel rq:pubsub:e3c0444773a54d09855d854e00677640
+2024-05-30 17:31:29,586 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 17:31:29,587 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:31:29,647 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:31:29,650 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 17:31:44,614 Worker e3c0444773a54d09855d854e00677640 [PID 3051]: warm shut down requested
+2024-05-30 17:31:44,616 Unsubscribing from channel rq:pubsub:e3c0444773a54d09855d854e00677640
+2024-05-30 17:38:05,556 Worker rq:worker:0e3fc32fcd5a4ddb828a659ae113e3ad started with PID 4565, version 1.16.2
+2024-05-30 17:38:05,556 Subscribing to channel rq:pubsub:0e3fc32fcd5a4ddb828a659ae113e3ad
+2024-05-30 17:38:05,558 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 17:38:05,559 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:38:05,561 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:38:05,562 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 17:38:05,976 Worker 0e3fc32fcd5a4ddb828a659ae113e3ad [PID 4565]: warm shut down requested
+2024-05-30 17:38:05,977 Unsubscribing from channel rq:pubsub:0e3fc32fcd5a4ddb828a659ae113e3ad
+2024-05-30 17:39:32,725 Worker rq:worker:dc42cf55478d46f2a84305aecaf42a28 started with PID 5047, version 1.16.2
+2024-05-30 17:39:32,725 Subscribing to channel rq:pubsub:dc42cf55478d46f2a84305aecaf42a28
+2024-05-30 17:39:32,727 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 17:39:32,730 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:39:32,732 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:39:32,733 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 17:44:36,347 Worker dc42cf55478d46f2a84305aecaf42a28 [PID 5047]: warm shut down requested
+2024-05-30 17:44:36,373 Unsubscribing from channel rq:pubsub:dc42cf55478d46f2a84305aecaf42a28
+2024-05-30 17:44:48,611 Worker rq:worker:d1d7a5f0e76f4a4e9f881cd345400505 started with PID 6821, version 1.16.2
+2024-05-30 17:44:48,611 Subscribing to channel rq:pubsub:d1d7a5f0e76f4a4e9f881cd345400505
+2024-05-30 17:44:48,631 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 17:44:48,632 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:44:48,636 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:44:48,638 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 17:44:49,481 Worker d1d7a5f0e76f4a4e9f881cd345400505 [PID 6821]: warm shut down requested
+2024-05-30 17:44:49,488 Unsubscribing from channel rq:pubsub:d1d7a5f0e76f4a4e9f881cd345400505
+2024-05-30 17:46:25,772 Worker rq:worker:bd1de75795484c68b31a9ce6073029ad started with PID 7629, version 1.16.2
+2024-05-30 17:46:25,773 Subscribing to channel rq:pubsub:bd1de75795484c68b31a9ce6073029ad
+2024-05-30 17:46:25,774 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 17:46:25,775 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:46:25,776 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:46:25,777 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 17:59:55,825 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 17:59:55,834 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 17:59:55,838 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 18:13:25,970 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 18:13:25,973 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 18:13:25,977 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 18:26:56,149 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 18:26:56,153 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 18:26:56,157 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 18:40:26,322 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 18:40:26,326 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 18:40:26,330 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 18:53:56,432 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 18:53:56,437 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 18:53:56,440 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:07:26,523 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 19:07:26,524 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 19:07:26,525 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:20:56,636 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 19:20:56,641 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 19:20:56,645 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:34:26,780 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 19:34:26,784 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 19:34:26,788 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:47:56,906 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 19:47:56,910 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 19:47:56,914 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:51:59,505 Worker bd1de75795484c68b31a9ce6073029ad [PID 7629]: warm shut down requested
+2024-05-30 19:51:59,511 Unsubscribing from channel rq:pubsub:bd1de75795484c68b31a9ce6073029ad
+2024-05-30 19:52:12,041 Worker rq:worker:9a19071f43e84d1b9562e3b73d99c922 started with PID 13313, version 1.16.2
+2024-05-30 19:52:12,041 Subscribing to channel rq:pubsub:9a19071f43e84d1b9562e3b73d99c922
+2024-05-30 19:52:12,060 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 19:52:12,070 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 19:52:12,074 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 19:52:12,076 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 19:57:19,544 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: systemadmin@admin.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='library.localhost', user='Administrator') (library.localhost::dce98cfb-ea09-4753-809b-635e184b7b1c)
+2024-05-30 19:57:21,053 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::dce98cfb-ea09-4753-809b-635e184b7b1c)
+2024-05-30 19:57:21,053 Result is kept for 600 seconds
+2024-05-30 19:57:21,099 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'systemadmin@admin.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='library.localhost', user='Administrator') (library.localhost::2e0ecc88-f059-4b5c-ab13-9e8e750ba274)
+2024-05-30 19:57:21,645 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::2e0ecc88-f059-4b5c-ab13-9e8e750ba274)
+2024-05-30 19:57:21,645 Result is kept for 600 seconds
+2024-05-30 20:04:06,748 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 20:04:06,751 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 20:04:06,756 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 20:05:35,919 Worker 9a19071f43e84d1b9562e3b73d99c922 [PID 13313]: warm shut down requested
+2024-05-30 20:05:35,927 Unsubscribing from channel rq:pubsub:9a19071f43e84d1b9562e3b73d99c922
+2024-05-30 20:05:46,120 Worker rq:worker:77c8ac960bce41b39aba0abff65d4539 started with PID 18429, version 1.16.2
+2024-05-30 20:05:46,120 Subscribing to channel rq:pubsub:77c8ac960bce41b39aba0abff65d4539
+2024-05-30 20:05:46,122 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 20:05:46,123 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 20:05:46,125 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 20:05:46,127 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 20:19:16,151 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 20:19:16,154 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 20:19:16,156 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 20:27:06,152 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Article', 'name': 'e3n858lamr'}, method='frappe.model.delete_doc.delete_dynamic_links', site='library.localhost', user='systemadmin@admin.com') (library.localhost::cdf5f4c2-d22b-40e0-98b6-3df977b9f586)
+2024-05-30 20:27:06,367 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::cdf5f4c2-d22b-40e0-98b6-3df977b9f586)
+2024-05-30 20:27:06,367 Result is kept for 600 seconds
+2024-05-30 20:33:51,382 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 20:33:51,388 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 20:33:51,392 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 20:47:21,477 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 20:47:21,480 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 20:47:21,484 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 21:00:51,616 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 21:00:51,634 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 21:00:51,638 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 21:14:04,421 Worker 77c8ac960bce41b39aba0abff65d4539 [PID 18429]: warm shut down requested
+2024-05-30 21:14:41,386 Worker rq:worker:716104f71bbd45ebbac701bc59b16912 started with PID 40295, version 1.16.2
+2024-05-30 21:14:41,387 Subscribing to channel rq:pubsub:716104f71bbd45ebbac701bc59b16912
+2024-05-30 21:14:41,389 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 21:14:41,390 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 21:14:41,391 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 21:14:41,392 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 21:24:53,609 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Library Member', 'name': 'eigpmmo2ur'}, method='frappe.model.delete_doc.delete_dynamic_links', site='library.localhost', user='Administrator') (library.localhost::bff2efc0-338a-4eb2-ad39-2e804de73966)
+2024-05-30 21:24:54,029 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::bff2efc0-338a-4eb2-ad39-2e804de73966)
+2024-05-30 21:24:54,029 Result is kept for 600 seconds
+2024-05-30 21:24:54,036 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 21:24:54,038 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 21:24:54,039 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 21:38:24,077 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 21:38:24,079 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 21:38:24,080 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 21:39:16,125 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Library Membership', 'name': 'fim8m41fao'}, method='frappe.model.delete_doc.delete_dynamic_links', site='library.localhost', user='Administrator') (library.localhost::269e6778-f053-48a1-9a7a-845760d74690)
+2024-05-30 21:39:16,495 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::269e6778-f053-48a1-9a7a-845760d74690)
+2024-05-30 21:39:16,499 Result is kept for 600 seconds
+2024-05-30 21:52:46,612 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 21:52:46,618 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 21:52:46,623 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 22:06:16,782 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 22:06:16,786 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 22:06:16,790 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 22:19:46,894 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 22:19:46,896 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 22:19:46,898 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 22:33:17,023 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 22:33:17,028 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 22:33:17,031 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 22:46:47,161 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 22:46:47,165 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 22:46:47,169 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:00:17,208 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 23:00:17,214 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 23:00:17,218 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:13:47,338 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 23:13:47,342 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 23:13:47,345 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:15:41,365 Worker 716104f71bbd45ebbac701bc59b16912 [PID 40295]: warm shut down requested
+2024-05-30 23:15:41,370 Unsubscribing from channel rq:pubsub:716104f71bbd45ebbac701bc59b16912
+2024-05-30 23:15:45,842 Worker rq:worker:fa83eb562ddd488f81553b7f9a47c3ab started with PID 67010, version 1.16.2
+2024-05-30 23:15:45,843 Subscribing to channel rq:pubsub:fa83eb562ddd488f81553b7f9a47c3ab
+2024-05-30 23:15:45,845 *** Listening on home-dancinwhale-frappe-bench:short, home-dancinwhale-frappe-bench:default, home-dancinwhale-frappe-bench:long...
+2024-05-30 23:15:45,847 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 23:15:45,851 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 23:15:45,854 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:18:46,042 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='library.localhost', user='Administrator') (library.localhost::b45f90f4-d356-43f2-be38-87fe21211412)
+2024-05-30 23:18:46,976 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::b45f90f4-d356-43f2-be38-87fe21211412)
+2024-05-30 23:18:46,976 Result is kept for 600 seconds
+2024-05-30 23:23:16,900 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Library Membership', 'name': 'LMS00003'}, method='frappe.model.delete_doc.delete_dynamic_links', site='library.localhost', user='Administrator') (library.localhost::0f08065b-60f9-4385-b51e-d17ac0439d2f)
+2024-05-30 23:23:17,220 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::0f08065b-60f9-4385-b51e-d17ac0439d2f)
+2024-05-30 23:23:17,221 Result is kept for 600 seconds
+2024-05-30 23:30:02,289 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 23:30:02,294 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 23:30:02,299 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:37:21,820 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'articles/мастер-и-маргарита'}, method=<function update_index_for_path at 0x77f35bf13ec0>, site='library.localhost', user='Administrator') (library.localhost::841d0b61-3670-466d-aa58-195fb836cb0f)
+2024-05-30 23:37:23,044 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::841d0b61-3670-466d-aa58-195fb836cb0f)
+2024-05-30 23:37:23,044 Result is kept for 600 seconds
+2024-05-30 23:37:53,810 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'articles/harry-potter-1'}, method=<function update_index_for_path at 0x77f35bf13ec0>, site='library.localhost', user='Administrator') (library.localhost::b2ae432e-7672-455b-aa67-b0ea2af3dfde)
+2024-05-30 23:37:54,990 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::b2ae432e-7672-455b-aa67-b0ea2af3dfde)
+2024-05-30 23:37:54,990 Result is kept for 600 seconds
+2024-05-30 23:39:26,532 home-dancinwhale-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'articles/some-book'}, method=<function update_index_for_path at 0x77f35bf13ec0>, site='library.localhost', user='Administrator') (library.localhost::e2042061-5ea2-42af-9dce-ec7ff7f6578d)
+2024-05-30 23:39:27,716 home-dancinwhale-frappe-bench:default: Job OK (library.localhost::e2042061-5ea2-42af-9dce-ec7ff7f6578d)
+2024-05-30 23:39:27,716 Result is kept for 600 seconds
+2024-05-30 23:46:12,732 Cleaning registries for queue: home-dancinwhale-frappe-bench:short
+2024-05-30 23:46:12,738 Cleaning registries for queue: home-dancinwhale-frappe-bench:default
+2024-05-30 23:46:12,742 Cleaning registries for queue: home-dancinwhale-frappe-bench:long
+2024-05-30 23:59:03,017 Worker fa83eb562ddd488f81553b7f9a47c3ab [PID 67010]: warm shut down requested
+2024-05-30 23:59:03,020 Unsubscribing from channel rq:pubsub:fa83eb562ddd488f81553b7f9a47c3ab

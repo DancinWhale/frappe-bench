@@ -1,0 +1,24 @@
+2024-05-30 23:14:43,533 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:14:54,063 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:15:05,696 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:16:08,722 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:17:41,794 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:18:21,922 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:18:56,266 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-05-30 23:19:49,407 ERROR frappe New Exception collected in error log
+Site: library.localhost
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2024-05-30 09:38:49.734103', 'cmd': 'frappe.desk.form.load.getdoctype'}
